@@ -1,10 +1,10 @@
 # Basic Expo App
 
-A simple Expo starter project.
+A simple Expo React Native project.
 
-## Run Locally
+## Run Project
 
 ```bash
 npm install
-npm run start or npx expo start
+npx expo start
 ```
